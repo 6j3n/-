@@ -1,7 +1,7 @@
 # 墨水屏日历 · 使用说明（content.md）
 
 > 配套文档：更新内容见 [`content1.md`](content1.md)
-> 当前版本：**v1.2.0**（versionCode 4）　包名：`com.breeze.epd`
+> 包名：`com.breeze.epd`
 
 ---
 
